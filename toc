@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="resources" audience="platform" href="/docs/resources/acct_resources.html"}
+{: .toc subcollection="resources" audience="platform" arm="3816100" href="/docs/resources/acct_resources.html"}
 Working with resources and services
 
     {: .navgroup id="learn"}
