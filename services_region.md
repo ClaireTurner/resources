@@ -17,10 +17,8 @@ subcollection: resources
 # Service  and infrastructure availability
 {: #services_region}
 
-{{site.data.keyword.Bluemix}} makes it easy for you to implement, host, and scale services, infrastructure, and apps so you can focus on your application logic and application design.
-{:shortdesc}
-
-Not all services and infrastructure are available for purchase in every {{site.data.keyword.Bluemix_notm}} location. 
+{{site.data.keyword.Bluemix}} makes it easy for you to implement, host, and scale services, infrastructure, and apps so you can focus on your application logic and application design. However, not all services and infrastructure are available for purchase in every {{site.data.keyword.Bluemix_notm}} location.
+{:shortdesc} 
 
 ## Services
 {: #paas-services}
